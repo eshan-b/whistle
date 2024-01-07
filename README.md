@@ -4,9 +4,45 @@
 
 Whistle is a decentralized platform for anonymous whistleblowing, leveraging blockchain technology for secure and censorship-resistant content storage.
 
-<div align="center" style="border: 1px solid #ddd; border-radius: 15px; padding: 10px; margin-bottom: 20px;">
-Note: This is a web 3.0 project.
-</div>
+<svg fill="none" viewBox="0 0 600 50" width="600" height="50" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .web3-container {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          width: 100%;
+          height: 50px;
+          border: 1px solid white;
+          border-radius: 15px;
+          color: white;
+          font-weight: bold;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+        }
+
+        @media (prefers-color-scheme: light) {
+          .web3-container {
+            border: 1px solid black;
+            color: #333;
+          }
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .web3-container {
+            border: 1px solid white;
+            color: white;
+          }
+        }
+      </style>
+
+      <div class="web3-container">
+        <p>This is a Web 3.0 project</p>
+      </div>
+    </div>
+
+  </foreignObject>
+</svg>
 
 ## Preview
 
