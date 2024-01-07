@@ -1,6 +1,23 @@
 # Whistle
 
+[![Development Status](https://img.shields.io/badge/status-in%20development-orange)](https://github.com/eshan-b/whistle)
+
 Whistle is a decentralized platform for anonymous whistleblowing, leveraging blockchain technology for secure and censorship-resistant content storage.
+
+<div align="center" style="border: 1px solid #ddd; border-radius: 15px; padding: 10px; margin-bottom: 20px;">
+Note: This is a web 3.0 project.
+</div>
+
+## Preview
+
+<div align="center"><h4>Landing</h4></div>
+<img src="./images/screenshots/landing.png">
+
+<div align="center"><h4>Authentication</h4></div>
+<img src="./images/screenshots/landing.png">
+
+<div align="center"><h4>Dashboard & Editor</h4></div>
+<img src="./images/screenshots/landing.png">
 
 ## Features
 
@@ -12,26 +29,21 @@ Whistle is a decentralized platform for anonymous whistleblowing, leveraging blo
 
 -   **Markdown Editor:** Create and publish content using a user-friendly markdown editor similar to popular note-taking apps.
 
-## Usage
-
--   **Authentication:** Click the "Login" button to configure your Decentralized Identifier (DID).
-
--   **Publish Content:** Use the markdown editor to create and publish anonymous content.
-
--   **Customize Profile:** Visit the profile customization page to add optional details while maintaining anonymity.
+-   **Browse Latest Articles:** Discover the latest content published by whistleblowers in the community.
 
 ## Technologies Used
 
 <!-- prettier-ignore -->
 | Technology | Purpose |
 |------------|---------|
-| [Next.js](https://nextjs.org/) | React framework for building web applications |
-| [React](https://reactjs.org/) | JavaScript library for building user interfaces |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework for styling |
-| [Decentralized Identifiers (DID)](https://www.w3.org/TR/did-core/) | Unique identifiers for decentralized authentication |
-| [Filecoin](https://filecoin.io/) | Decentralized storage for secure and permanent content |
-| [IPFS](https://ipfs.io/) | InterPlanetary File System for decentralized content addressing |
-| [Markdown](https://www.markdownguide.org/) | Lightweight markup language for formatting content |
+| <img src="./images/nextjs-logo.png" alt="Next.js Logo" height="20" width="20"/> [Next.js](https://nextjs.org/) | React framework for building web applications |
+| <img src="./images/react-logo.png" alt="Next.js Logo" height="20" width="20"/> [React](https://reactjs.org/) | JavaScript library for building user interfaces |
+| <img src="./images/tailwindcss-logo.png" alt="Next.js Logo" height="20" width="20"/> [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework for styling |
+| <img src="./images/nextUI-logo.png" alt="NextUI Logo" height="20" width="20"/> [NextUI](https://nextui.org/) | UI library for Tailwind CSS with theming support |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png" alt="Next.js Logo" height="20" width="20"/> [MetaMask](https://metamask.io/) | Ethereum wallet for secure and anonymous authentication |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Filecoin.svg/1200px-Filecoin.svg.png" alt="Next.js Logo" height="20" width="20"/> [Filecoin](https://filecoin.io/) | Decentralized storage for secure and permanent content |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Ipfs-logo-1024-ice-text.png" alt="Next.js Logo" height="20" width="20"/> [IPFS](https://ipfs.io/) | InterPlanetary File System for decentralized content addressing |
+| <img src="./images/markdown-logo.png" alt="Next.js Logo" height="20" width="20"/> [Markdown](https://www.markdownguide.org/) | Lightweight markup language for formatting content |
 
 ## Contribution Guidelines
 
